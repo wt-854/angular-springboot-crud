@@ -12,7 +12,7 @@ Full source code available at <a href="https://github.com/RameshMF/Angular8-Spri
 Running Spring Boot: 
 1. Open terminal
 2. Enter `cd springboot2-jpa-crud`
-3. Enter `mvn spring-boot:run`.
+3. Enter `mvn spring-boot:run`
 
 Running Angular:
 1. Open new terminal
