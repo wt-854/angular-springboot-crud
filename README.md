@@ -20,6 +20,7 @@ Running Angular:
 3. Enter `npm install` to install node modules
 4. Enter `ng serve` to run Angular on localhost. 
 5. We can change the default port with `ng serve --port xxxx` instead, i.e. `ng serve --port 4201` for port 4201. 
+6. Enter `http://localhost:4200` or the respective port number into a web browser to run the SPA. 
 
 
 To change database environment, navigate to `/springboot2-jpa-crud/src/main/resources` and open `application.properties`. 
